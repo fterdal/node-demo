@@ -11,6 +11,6 @@ const randomCrap = [
 ]
 
 module.exports = {
-  randomCrap,
+  ingredients: randomCrap,
   dishName
 }
